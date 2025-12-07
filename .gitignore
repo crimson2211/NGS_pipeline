@@ -1,0 +1,7 @@
+data/
+results/
+tools/
+ngs_env/
+*.pod5
+*.fastq
+*.csv
