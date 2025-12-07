@@ -33,15 +33,4 @@ The pipeline expects the following tools to be manually installed in \`tools/\`:
 2. **Execute Pipeline:** \`./pipeline.sh\`
 3. **Generate Visuals:** \`python3 ploting_pipe.py\` creates \`benchmark_graph.png\`.
 
-## File Structure 
-NGS_Pipeline/
-├── tools/
-│   ├── bin/
-│   │   └── .gitkeep  <-- Placeholder is here
-│   ├── dorado_models/
-│   │   └── .gitkeep  <-- Placeholder is here
-│   └── kraken2_db/
-│       └── .gitkeep  <-- Placeholder is here
-├── pipeline.sh
-└── .gitignore
 
